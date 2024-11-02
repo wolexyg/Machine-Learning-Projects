@@ -1,4 +1,22 @@
 # Machine Learning Projects
 # Project 1 - Airline Customers Satisfaction      
- # Objectives
+ # Objectives           
+ # The main aim of this analysis is to assess various machine learning algorithms and determine the most suitable algorithm to classify customer satisfaction. This analysis also aims to ascertain and highlight the most critical variables in determining customer satisfaction.
  
+ # Steps Involved in the Analysis        
+ # 1.Loading the Dataset                 
+ # 2.Data Cleaning       
+ # 3.Data Preprocessing
+ # 4.Model Selection i.e Random Forest,Logistic Regression,Support Vector Machine,K-Nearest Neighbors         
+ # 5.Model Comparison    
+   **Random Forest gave the highest Accuracy of 96%.**    
+   # Questions    
+  **1.Find  the Number of customers based on satisfaction using a countplot.**            
+   **2.Find the Customer satisfaction based on class of travel.**     
+
+   Answers      
+  **1.From the analysis from countplot,a total of 56428 customers were satisfied while 73452 Customers were disatisfied meaning that**
+  **measures should be put in place to enhance more Customer Satisfaction.**           
+   **2.A total number 45000 Customers were satisfied in the business class,12000 for Economy and less than 10000 Customers for economy plus**
+ 
+**
