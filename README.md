@@ -19,4 +19,10 @@
   **measures should be put in place to enhance more Customer Satisfaction.**           
    **2.A total number 45000 Customers were satisfied in the business class,12000 for Economy and less than 10000 Customers for economy plus**
  
-**
+# Project 2 Ensemble Machine Learning Project on SocialNetworks ads Dataset
+# Project Overview
+The main objective of this project is to use Ensemble Machine Learning Model i.e Bagging and Boosting to predict the accuracy of the  Socialnetworks ads Dataset.The dataset was downloaded from  kaggle   https://www.kaggle.com/code/emansalah2000/socialnetworkads    
+
+# Highlights from the Analysis   
+
+
