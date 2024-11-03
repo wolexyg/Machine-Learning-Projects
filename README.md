@@ -39,6 +39,9 @@ CMP(Malicious)-9419
 TCP-13866    
 
 # Project 3-Used Bike Price Prediction
+# About The Project 
+# In This Project , The Price Of THe Second Hand Used Bikes is predicted on the Basis Of Kms Driven, Brand, Etc. We Using Linear Regresiion Model, Random Forest Regression, Decision Tree Regression Model Of Machine Learning ..
+
 
 
 
