@@ -58,6 +58,8 @@ The average soil temperatures for bioactivity range from 50 to 75F. These values
 The pH range 5.5–6.5 is optimal for plant growth as the availability of nutrients is optimal.                   
 Besides disease, rainfall can also determine how fast a crop will grow from seed, including when it will be ready for harvesting. A good balance of rain and proper irrigation can lead to faster-growing plants, which can cut down on germination time and the length between seeding and harvest.             
 
+# Project 5-Student grade prediction using different models
+The objective of this project is to use different machine learning models to predict the accuracy of student grades
 
 
 
