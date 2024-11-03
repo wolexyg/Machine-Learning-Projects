@@ -30,6 +30,13 @@
 6.Find the number of Attacks requests.              
 .The dataset was downloaded from  kaggle   https://www.kaggle.com/code/emansalah2000/socialnetworkads    
 
-# Highlights from the Analysis   
+# Highlights from the Analysis  
+Percentage of Benign requests-39.1%             
+Percentage of Malicious request-60.9%              
+
+UDP Protol-17499
+CMP(Malicious)-9419             
+TCP-13866              
+
 
 
