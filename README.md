@@ -34,8 +34,8 @@
 Percentage of Benign requests-39.1%             
 Percentage of Malicious request-60.9%              
 
-UDP Protol-17499
-CMP(Malicious)-9419             
+UDP Protol-17499     
+CMP(Malicious)-9419                            
 TCP-13866              
 
 
