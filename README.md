@@ -48,6 +48,8 @@ TCP-13866
 
 # Project 4-Machine Learning in Agriculture Project
 
+This is dataset which is used to recommend the crop for the suitable soil. This will be very useful in crop production (Agriculture) **without looses based on soli ph, rainfall, humadity and other chemical components present in the soil.
+
 
 
 
