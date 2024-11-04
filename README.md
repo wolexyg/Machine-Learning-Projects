@@ -17,7 +17,9 @@
    Answers      
   **1.From the analysis from countplot,a total of 56428 customers were satisfied while 73452 Customers were disatisfied meaning that**
   **measures should be put in place to enhance more Customer Satisfaction.**           
-   **2.A total number 45000 Customers were satisfied in the business class,12000 for Economy and less than 10000 Customers for economy plus**
+   **2.A total number 45000 Customers were satisfied in the business class,12000 for Economy and less than 10000 Customers for economy plus**       
+   ![Airline Customers based on Satisfaction](https://github.com/user-attachments/assets/8d17a3e4-547c-4157-bbef-d9fda9e6dd5e)
+
  
 # Project 2-Ensemble Machine Learning Project on SocialNetworks ads Dataset
 # Project Overview
