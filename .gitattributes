@@ -6,3 +6,6 @@
 *.svg binary
 *.bmp binary
 *.tiff binary
+git add .gitattributes
+git commit -m "Update .gitattributes for image display"
+git push
